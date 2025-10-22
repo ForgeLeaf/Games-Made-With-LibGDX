@@ -247,6 +247,7 @@
 * https://jewelthrone.itch.io/astro-hammer
 * https://javacakegames.itch.io/bread
 * https://threetails.itch.io/chasing-tails
+* https://groxar.itch.io/dimentio (https://github.com/Raxorg/Dimentio)
 
 **THIS LIST IS NOT COMPLETE!**
 
